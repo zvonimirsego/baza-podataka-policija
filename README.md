@@ -1,6 +1,6 @@
 # PostgreSQL database - police station
 
-This project was made as a part of a college course, available on this [link](https://www.mathos.unios.hr/en/kolegiji/moderni-sustavi-baza-podataka/)
+This project was made as a part of a college course, available on this [link](https://www.mathos.unios.hr/en/kolegiji/moderni-sustavi-baza-podataka/) <br>
 This databses contains:
   - 12 tables, all filled with data
   - 2 procedures
@@ -12,6 +12,3 @@ This databses contains:
   - indicies
   - MER model
   - relational model
-
-## What will be added?
-  - TBA
